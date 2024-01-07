@@ -6,25 +6,40 @@
             "value": "31f8a300-d8b1-4d13-8716-173b9da0d058"
         },
         "resourceGroupName": {
-            "value": "rg005"
+            "value": "RG001"
         },
         "name": {
-            "value": "web1234321"
+            "value": "web0123"
         },
         "location": {
             "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-rg01-8276"
+            "value": "ASP-RG001-b87e"
         },
         "serverFarmResourceGroup": {
-            "value": "rg01"
+            "value": "RG001"
         },
         "alwaysOn": {
-            "value": true
+            "value": false
         },
         "ftpsState": {
             "value": "FtpsOnly"
+        },
+        "sku": {
+            "value": "Basic"
+        },
+        "skuCode": {
+            "value": "B1"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
         },
         "linuxFxVersion": {
             "value": "JAVA|17-java17"
